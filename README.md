@@ -15,7 +15,7 @@
 
 [🧑‍💻 贡献者](#-贡献者)
 
-[🎺️ 声明](#-声明)
+[🔦 声明](#-声明)
 
 ---
 
@@ -42,6 +42,6 @@
   <img src="https://contrib.rocks/image?repo=Cierra-Runis/repository_template" />
 </a>
 
-# 🎺️ 声明
+# 🔦 声明
 
 主要还是个人用
