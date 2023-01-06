@@ -1,5 +1,5 @@
 <div align="center">
-  <img id="repository_template" width="64" alt="repository_template" src="repository_icon/icon.jpg">
+  <img id="repository_template" width="64" alt="repository_template" src="repository_icon/icon.png">
   <p>「 repository_template - 仓库模版！」</p>
 </div>
 
