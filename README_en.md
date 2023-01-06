@@ -1,5 +1,5 @@
 <div align="center">
-  <img id="repository_template" width="96" alt="repository_template" src="repository_icon/icon.png">
+  <img id="repository_template" width="96" alt="repository_template" src="repository_icon/icon.svg">
   <p>『 repository_template - Repository Template! 』</p>
   <a href='README.md'>中文 Readme</a>
 </div>
