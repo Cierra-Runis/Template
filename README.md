@@ -1,6 +1,7 @@
 <div align="center">
   <img id="repository_template" width="96" alt="repository_template" src="repository_icon/icon.png">
-  <p>「 repository_template - 仓库模版！」</p>
+  <p>『 repository_template - 仓库模版！』</p>
+  <a href='README_en.md'>English Readme</a>
 </div>
 
 [📚 简介](#-简介)
