@@ -8,7 +8,7 @@
 
 [📚 Introduction](#-Introduction)
 
-[📸️ Screenshots](#-Screenshots)
+[📸 Screenshots](#-Screenshots)
 
 [📦 How to use](#-How-to-use)
 
@@ -26,7 +26,7 @@
 
 Using to build `README` file quickly
 
-# 📸️ Screenshots
+# 📸 Screenshots
 
 <img width="128" alt="screenshots" src="https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/repository_icon/icon.svg">
 
