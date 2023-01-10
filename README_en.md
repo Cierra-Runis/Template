@@ -34,7 +34,7 @@ Using to build `README` file quickly
 
 Copy, paste then revise `README` and `LICENSE` file and the image in `repository_icon` folder
 
-# ⏳ Rate-of-progress
+# ⏳ Rate of progress
 
 Done, but it will revise if necessary
 
