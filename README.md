@@ -1,61 +1,61 @@
 <div align="center">
-  <img id="repository_template" width="96" alt="repository_template" src="https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/repository_icon/icon.svg">
-  <p>『 repository_template - 仓库模版！』</p>
-  <a href='https://github.com/Cierra-Runis/repository_template/blob/master/README_en.md'>English Readme</a>
+  <img width="96" alt="repository_template" src="https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/repository_icon/icon.svg">
+  <p>『 repository_template - Repository Template! 』</p>
+  <a href="https://github.com/Cierra-Runis/repository_template/blob/master/README_zh.md">中文 Readme</a>
 </div>
 
-`本 README 文件最后更新于：2023-01-10 21:00:00`
+`This README file latest update: 2023-01-10 21:00:00`
 
-[📚 简介](#-简介)
+[📚 Introduction](#-Introduction)
 
-[📸 示例](#-示例)
+[📸 Screenshots](#-Screenshots)
 
-[📦 使用方式](#-使用方式)
+[📦 How to use](#-How-to-use)
 
-[⏳ 进度](#-进度)
+[⏳ Rate of progress](#-Rate-of-progress)
 
-[📌 注意事项](#-注意事项)
+[📌 Precautions](#-Precautions)
 
-[🧑‍💻 贡献者](#-贡献者)
+[🧑‍💻 Contributor](#-Contributor)
 
-[🔦 声明](#-声明)
+[🔦 Declaration](#-Declaration)
 
 ---
 
-# 📚 简介
+# 📚 Introduction
 
-用于快速构建仓库 `README` 文件
+Using to build `README` file quickly
 
-# 📸 示例
+# 📸 Screenshots
 
 ![screenshots_1](https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/repository_icon/icon.svg)
 
-# 📦 使用方式
+# 📦 How to use
 
-复制粘贴并修改 `README` 和 `LICENSE` 文件与 `repository_icon` 文件夹内图片
+Copy, paste then revise `README` and `LICENSE` file and the image in `repository_icon` folder
 
-# ⏳ 进度
+# ⏳ Rate of progress
 
-已完成，按需修改
+Done, but it will revise if necessary
 
-# 📌 注意事项
+# 📌 Cautions
 
-- 记得修改 `<img>` 和 `<a>` 标签的 `src` 与 `alt` 和 `href` 属性\
-- 记得修改 `<p>` 标签
-- 记得修改最后更新时间
-- 记得修改 [贡献者](#-Contributor) 和 [声明](#-Declaration)里的仓库名和分支名
-- 记得修改 `LICENSE` 里的年份和名字
-- 如果你想在本 README 页面添加自己的链接，请去除 emoji 后不可见的 `\ufe0f`
-- 请尽可能使用全链接
+- Remember to revise the `src`, `alt` and `href` attribute in `<img>` and `<a>` tags
+- Remember to revise the `<p>` tag
+- Remember to revise the latest update time
+- Remember to revise the repository name and branch in [Contributor](#-Contributor) and [Declaration](#-Declaration)
+- Remember to revise the year and name in `LICENSE`
+- If you want to add link to another section on the readme page by yourself, please remove invisible `\ufe0f` after emoji
+- Please use the full link as much as possible
 
-# 🧑‍💻 贡献者
+# 🧑‍💻 Contributor
 
 <a href="https://github.com/Cierra-Runis/repository_template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Cierra-Runis/repository_template" />
 </a>
 
-# 🔦 声明
+# 🔦 Declaration
 
 [![License](https://img.shields.io/github/license/Cierra-Runis/repository_template)](https://github.com/Cierra-Runis/repository_template/blob/master/LICENSE)
 
-该项目采用 `MIT` 许可协议，查看 [LICENSE](https://github.com/Cierra-Runis/repository_template/blob/master/LICENSE) 以获得更多信息
+This project is licensed under the terms of the `MIT` license. See [LICENSE](https://github.com/Cierra-Runis/repository_template/blob/master/LICENSE) for more details
