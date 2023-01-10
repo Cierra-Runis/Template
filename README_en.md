@@ -30,7 +30,7 @@ Copy, paste then revise `README` file and the image in `repository_icon` folder
 
 Done, but it will revise if necessary
 
-# 📌 Precautions
+# 📌 Cautions
 
 - Remember to revise the `id` and `alt` attribute in `<img>`
 - Remember to revise the repository name in Contributor
