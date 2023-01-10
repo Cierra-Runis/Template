@@ -4,7 +4,7 @@
   <a href="https://github.com/Cierra-Runis/repository_template/blob/master/README_zh.md">中文 Readme</a>
 </div>
 
-`This README file latest update: 2023-01-10 21:00:00`
+`Latest update: 2023-01-10 21:00:00`
 
 [📚 Introduction](#-Introduction)
 
