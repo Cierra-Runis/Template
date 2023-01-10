@@ -8,7 +8,7 @@
 
 [📚 简介](#-简介)
 
-[📸 Screenshots 示例](#-示例)
+[📸 示例](#-示例)
 
 [📦 使用方式](#-使用方式)
 
@@ -26,7 +26,7 @@
 
 用于快速构建仓库 `README` 文件
 
-# 📸 Screenshots 示例
+# 📸 示例
 
 <img width="128" alt="screenshots" src="https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/repository_icon/icon.svg">
 
