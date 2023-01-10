@@ -28,7 +28,7 @@
 
 # 📸 示例
 
-<img width="128" alt="screenshots" src="https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/repository_icon/icon.svg">
+![screenshots_1](https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/repository_icon/icon.svg)
 
 # 📦 使用方式
 
