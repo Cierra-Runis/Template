@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="96" alt="repository_template" src="https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/repository_img/icon.svg">
+  <img id="repository_template" width="96" alt="repository_template" src="https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/.github/icon.svg">
   <p>『 repository_template - Repository Template! 』</p>
   <a href="https://github.com/Cierra-Runis/repository_template/blob/master/README_zh.md">中文 Readme</a>
 </div>
@@ -28,11 +28,11 @@ Using to build `README` file quickly
 
 # 📸 Screenshots
 
-![screenshots_1](https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/repository_img/screenshots_1.png)
+![screenshots_1](https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/.github/screenshots_1.png)
 
 # 📦 How to use
 
-Copy, paste then revise `README` and `LICENSE` file and the image in `repository_img` folder
+Copy, paste then revise `README` and `LICENSE` file and the image in `.github` folder
 
 # ⏳ Rate of progress
 

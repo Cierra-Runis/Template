@@ -1,5 +1,5 @@
 <div align="center">
-  <img id="repository_template" width="96" alt="repository_template" src="https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/repository_img/icon.svg">
+  <img id="repository_template" width="96" alt="repository_template" src="https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/.github/icon.svg">
   <p>『 repository_template - 仓库模版！』</p>
   <a href='https://github.com/Cierra-Runis/repository_template/blob/master/README.md'>English Readme</a>
 </div>
@@ -28,11 +28,11 @@
 
 # 📸 示例
 
-![screenshots_1](https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/repository_img/screenshots_1.png)
+![screenshots_1](https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/.github/screenshots_1.png)
 
 # 📦 使用方式
 
-复制粘贴并修改 `README` 和 `LICENSE` 文件与 `repository_img` 文件夹内图片
+复制粘贴并修改 `README` 和 `LICENSE` 文件与 `.github` 文件夹内图片
 
 # ⏳ 进度
 
